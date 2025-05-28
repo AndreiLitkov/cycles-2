@@ -20,12 +20,12 @@ public class Main {
         int a = 0;
         while (a < 10) {
             a++;
-            System.out.print(a);
+            System.out.print (" " + a);
         }
         System.out.println();
 
         for (int b = 10; b > 0; b--) {
-            System.out.print(b);
+            System.out.print(" "+ b);
         }
         System.out.println();
         //Task 3
